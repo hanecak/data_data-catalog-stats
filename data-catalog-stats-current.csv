@@ -1,11 +1,11 @@
 source,dataset_count,resource_count,license_count(total),open_license_count,non_open_license_count
-catalogodatos.gub.uy,85,275,4,0,85
+catalogodatos.gub.uy,85,268,4,0,85
 dados.gov.br,237,2056,15,40,197
 data.gov.cz,178,1573,15,24,154
 data.gov.sk,205,512,15,1,204
-data.gov.uk,17849,60918,15,9007,8842
-data.gv.at,1185,18785,3,1183,2
+data.gov.uk,17862,61822,15,9020,8842
+data.gv.at,1185,18809,3,1183,2
 hubofdata.ru,5850,27330,15,491,5359
 www.dati.gov.it,7963,20199,19,7912,51
-www.govdata.de,7463,22208,36,5468,1995
+www.govdata.de,7468,22216,36,5473,1995
 www.publicdata.eu,48632,117061,15,19860,28772
