@@ -1,13 +1,13 @@
 source,dataset_count,resource_count,license_count(total),open_license_count,non_open_license_count
 catalogodatos.gub.uy,112,417,4,0,112
-dados.gov.br,1055,7639,15,308,747
+dados.gov.br,977,7249,15,308,669
 data.comsode.eu,199,285,15,5,194
 data.gov.ie,896,2495,15,127,769
 data.gov.ro,288,1880,4,288,0
 data.gov.sk,599,1403,15,577,22
-data.gov.uk,-1,-1,-1,-1,-1
-data.gv.at,1910,6733,4,1236,674
-datahub.io,9804,22447,15,3932,5872
+data.gov.uk,26258,88853,15,16772,9486
+data.gv.at,1911,6736,4,1231,680
+datahub.io,9806,22449,15,3934,5872
 hubofdata.ru,5860,27373,15,497,5363
 ie.ckan.net,-1,-1,-1,-1,-1
 opendata.hu,48,90,15,5,43
