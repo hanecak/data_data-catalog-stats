@@ -1,12 +1,12 @@
 source,dataset_count,resource_count,license_count(total),open_license_count,non_open_license_count
-catalogodatos.gub.uy,167,673,8,10,157
+catalogodatos.gub.uy,167,675,8,10,157
 dados.gov.br,3347,19348,15,2303,1044
 data.comsode.eu,182,449,15,151,31
-data.gov.ie,5527,13006,5,5190,337
+data.gov.ie,5527,13001,5,5190,337
 data.gov.ro,1063,20468,4,926,137
 data.gov.si,3648,12281,3,3313,335
-data.gov.sk,1220,5749,15,1088,132
-data.gov.uk,42796,146301,15,32367,10429
+data.gov.sk,1220,5750,15,1088,132
+data.gov.uk,42798,146322,15,32369,10429
 data.gv.at,2537,10326,5,2117,420
 datahub.io,11277,26381,15,5196,6081
 energydata.info,347,904,16,331,16
@@ -16,8 +16,8 @@ opendata.government.bg,6381,12067,15,6008,373
 opendata.hu,53,109,15,7,46
 opendata.praha.eu,186,1069,15,185,1
 www.data.gov.sg,1230,2174,15,0,1230
-www.europeandataportal.eu,771579,1080419,35,70160,701419
-www.govdata.de,20746,60432,42,18659,2087
+www.europeandataportal.eu,771591,1080464,35,70164,701427
+www.govdata.de,20694,60325,42,18650,2044
 www.hri.fi,614,1090,9,606,8
 www.opendataphilly.org,354,-1,-1,-1,-1
 www.publicdata.eu,-1,-1,-1,-1,-1
