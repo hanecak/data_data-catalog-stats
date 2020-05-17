@@ -1,12 +1,12 @@
 source,dataset_count,resource_count,license_count(total),open_license_count,non_open_license_count
-dados.gov.br,7977,41524,15,6598,1379
+dados.gov.br,7979,41535,15,6600,1379
 data.comsode.eu,-1,-1,-1,-1,-1
 data.edincubator.eu,-1,-1,-1,-1,-1
 data.gov.ie,10084,28058,21,9569,515
 data.gov.ro,-1,-1,-1,-1,-1
 data.gov.si,4828,17954,3,4237,591
-data.gov.sk,2208,8578,15,2014,194
-data.gov.ua,30996,139451,15,30691,305
+data.gov.sk,2208,8582,15,2014,194
+data.gov.ua,30996,139453,15,30691,305
 data.gov.uk,-1,-1,-1,-1,-1
 data.gv.at,27286,39840,6,0,27286
 datahub.io,11389,27373,15,5306,6083
